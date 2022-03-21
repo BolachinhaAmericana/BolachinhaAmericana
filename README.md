@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BolachinhaAmericana
-- 🌱 I’m currently taking a degree in Bioinformatics, learning python, linux shell and SQL.
+- 🌱 I’m currently taking a degree in Bioinformatics, learning python, linux shell, SQL, Java, RStudio.
 - 📫 How to reach me : via Email :duarte.tz.valente@gmail.com
                        via Instagram @duarte.tzvalente
                        via Discord Bolachinha Americana#4095
