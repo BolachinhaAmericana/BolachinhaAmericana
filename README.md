@@ -3,6 +3,7 @@
 #### 📫 How to reach me :
 - via Email :duarte.tz.valente@gmail.com // duarte.tzvalente02@gmail.com
 - via Instagram @duarte.tzvalente
+- via LinkedIn: https://www.linkedin.com/in/duarte-valente-9ba695225/
 
 #### Take a look at some of my other projects: 
 - Gitlab: https://gitlab.com/BolachinhaAmericana
