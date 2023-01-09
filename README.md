@@ -4,7 +4,7 @@
 -via Email :duarte.tz.valente@gmail.com // duarte.tzvalente02@gmail.com
 -via Instagram @duarte.tzvalente
 
-####Take a look at some of my other projects: 
+#### Take a look at some of my other projects: 
 - Gitlab: https://gitlab.com/BolachinhaAmericana
 
 <!---
