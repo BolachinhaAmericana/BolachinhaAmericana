@@ -4,8 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Bioinformatics Graduate
 -----------------------
 
+I've been interested in Computer Science since 10th grade when I first started writing some simple programs to shutdown my friends computers. From them I enrolled on a Bioinformatics Course where I just recently concluded my graduation on. During my journey becoming a bioinformatician I understood that my passion lied within the areas of data science and machine learning and not so much from the biological facet of this multidisciplinary course. I am passionate and eager to keep learning about IT!
+
 * 🌍  I'm based in Lisbon, Portugal
+* 🖥️  See my portfolio at [duartetzvalente02](http://duartetzvalente02.wordpress.com)
 * ✉️  You can contact me at [duarte.tzvalente02@gmail.com](mailto:duarte.tzvalente02@gmail.com)
+* 🚀  I'm currently working on [A personal project for a password manager](http://github.com/BolachinhaAmericana/PersonalProjects/tree/main/personal_PW_Manager)
+* 🤝  I'm open to collaborating on anything that challenges me
 
 ### Skills
 
