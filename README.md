@@ -11,6 +11,7 @@ I've been interested in Computer Science since 10th grade when I first started w
 * ✉️  You can contact me at [duarte.tzvalente02@gmail.com](mailto:duarte.tzvalente02@gmail.com)
 * 🚀  I'm currently working on [A personal project for a password manager](http://github.com/BolachinhaAmericana/PersonalProjects/tree/main/personal_PW_Manager)
 * 🤝  I'm open to collaborating on anything that challenges me
+* :brain: I'm currently learning Vim Text editor!
 
 ### Skills
 
@@ -23,6 +24,7 @@ I've been interested in Computer Science since 10th grade when I first started w
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/BolachinhaAmericana" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/duartetzvalente" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
 
 ### Badges
 
