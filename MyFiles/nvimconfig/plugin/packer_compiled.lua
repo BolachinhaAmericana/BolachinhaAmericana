@@ -129,6 +129,17 @@ _G.packer_plugins = {
     path = "/home/valente/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
   },
+  moonfly = {
+    config = { "\27LJ\2\n7\0\0\3\0\3\0\0056\0\0\0009\0\1\0'\2\2\0B\0\2\1K\0\1\0\24colorscheme moonfly\bcmd\bvim\0" },
+    loaded = true,
+    path = "/home/valente/.local/share/nvim/site/pack/packer/start/moonfly",
+    url = "https://github.com/bluz71/vim-moonfly-colors"
+  },
+  nerdtree = {
+    loaded = true,
+    path = "/home/valente/.local/share/nvim/site/pack/packer/start/nerdtree",
+    url = "https://github.com/preservim/nerdtree"
+  },
   ["nvim-cmp"] = {
     loaded = true,
     path = "/home/valente/.local/share/nvim/site/pack/packer/start/nvim-cmp",
@@ -149,44 +160,68 @@ _G.packer_plugins = {
     path = "/home/valente/.local/share/nvim/site/pack/packer/start/packer.nvim",
     url = "https://github.com/wbthomason/packer.nvim"
   },
+  ["pear-tree"] = {
+    loaded = true,
+    path = "/home/valente/.local/share/nvim/site/pack/packer/start/pear-tree",
+    url = "https://github.com/tmsvg/pear-tree"
+  },
   ["plenary.nvim"] = {
     loaded = true,
     path = "/home/valente/.local/share/nvim/site/pack/packer/start/plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
-  },
-  ripgrep = {
-    loaded = true,
-    path = "/home/valente/.local/share/nvim/site/pack/packer/start/ripgrep",
-    url = "https://github.com/BurntSushi/ripgrep"
   },
   ["telescope.nvim"] = {
     loaded = true,
     path = "/home/valente/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
-  ["tokyo-night"] = {
-    config = { "\27LJ\2\n:\0\0\3\0\3\0\0056\0\0\0009\0\1\0'\2\2\0B\0\2\1K\0\1\0\27colorscheme tokyonight\bcmd\bvim\0" },
+  ["true-zen.nvim"] = {
     loaded = true,
-    path = "/home/valente/.local/share/nvim/site/pack/packer/start/tokyo-night",
-    url = "https://github.com/folke/tokyonight.nvim"
+    path = "/home/valente/.local/share/nvim/site/pack/packer/start/true-zen.nvim",
+    url = "https://github.com/Pocco81/true-zen.nvim"
   },
   undotree = {
     loaded = true,
     path = "/home/valente/.local/share/nvim/site/pack/packer/start/undotree",
     url = "https://github.com/mbbill/undotree"
   },
+  ["venv-selector.nvim"] = {
+    loaded = true,
+    path = "/home/valente/.local/share/nvim/site/pack/packer/start/venv-selector.nvim",
+    url = "https://github.com/linux-cultist/venv-selector.nvim"
+  },
+  ["vim-airline"] = {
+    loaded = true,
+    path = "/home/valente/.local/share/nvim/site/pack/packer/start/vim-airline",
+    url = "https://github.com/vim-airline/vim-airline"
+  },
+  ["vim-airline-themes"] = {
+    loaded = true,
+    path = "/home/valente/.local/share/nvim/site/pack/packer/start/vim-airline-themes",
+    url = "https://github.com/vim-airline/vim-airline-themes"
+  },
+  ["vim-conda"] = {
+    loaded = true,
+    path = "/home/valente/.local/share/nvim/site/pack/packer/start/vim-conda",
+    url = "https://github.com/cjrh/vim-conda"
+  },
   ["vim-fugitive"] = {
     loaded = true,
     path = "/home/valente/.local/share/nvim/site/pack/packer/start/vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
+  },
+  ["vim-indent-guides"] = {
+    loaded = true,
+    path = "/home/valente/.local/share/nvim/site/pack/packer/start/vim-indent-guides",
+    url = "https://github.com/nathanaelkane/vim-indent-guides"
   }
 }
 
 time([[Defining packer_plugins]], false)
--- Config for: tokyo-night
-time([[Config for tokyo-night]], true)
-try_loadstring("\27LJ\2\n:\0\0\3\0\3\0\0056\0\0\0009\0\1\0'\2\2\0B\0\2\1K\0\1\0\27colorscheme tokyonight\bcmd\bvim\0", "config", "tokyo-night")
-time([[Config for tokyo-night]], false)
+-- Config for: moonfly
+time([[Config for moonfly]], true)
+try_loadstring("\27LJ\2\n7\0\0\3\0\3\0\0056\0\0\0009\0\1\0'\2\2\0B\0\2\1K\0\1\0\24colorscheme moonfly\bcmd\bvim\0", "config", "moonfly")
+time([[Config for moonfly]], false)
 
 _G._packer.inside_compile = false
 if _G._packer.needs_bufread == true then
