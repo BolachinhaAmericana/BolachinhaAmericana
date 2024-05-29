@@ -1,0 +1,1 @@
+vim.api.nvim_set_keymap('n', '<leader>ig', '<Nop>', { noremap = true, silent = true }) -- remove default keymap

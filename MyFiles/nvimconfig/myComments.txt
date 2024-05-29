@@ -1,0 +1,4 @@
+- ./.config/nvim
+- TrueZen plugin with an issue deactivating the mode.
+- jellybeans.vim is a theme for vim-airline. I changed it's source code at ~/.local/share/nvim/site/pack/packer/start/vim-airline-theme/autoload/airline/themes/
+- I use a nerdfont for all my icons
