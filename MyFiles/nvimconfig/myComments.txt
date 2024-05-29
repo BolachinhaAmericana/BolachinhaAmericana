@@ -2,3 +2,40 @@
 - TrueZen plugin with an issue deactivating the mode.
 - jellybeans.vim is a theme for vim-airline. I changed it's source code at ~/.local/share/nvim/site/pack/packer/start/vim-airline-theme/autoload/airline/themes/
 - I use a nerdfont for all my icons
+
+
+-- keybindings
+
+Essentials:
+	<leader>pv		      [normal mode]		- Open explorer
+	<leader>pV	      	[normal mode]		- Open side file-tree
+	=			              [visual mode]		- auto-format
+	<leader>u		        [normal mode]		- opens undo-tree
+
+Quality of life:
+	J & K 		        	[visual mode] 		- move the block Up/Down (Crazy right?)
+	J			              [normal mode]		  - append next line to end of current line
+	n & N			          [search mode (/)	- locates the term keeping the cursor static in the middle of the screen
+	<leader>p		        [normal/replace]	- repalce highlighted text with a yank. Keeps original clipboard
+	<leader>s 		      [normal]		      - replace current word in the whole file (This one is just magic)
+	<leader><Tab>		    [normal]	      	- when upper-tabs are on, navigate through them (<leader>1,2,3,4 works aswell)
+	<leader>zz		      [normal/visual]		- enter Zen mode (ZzZzzZ)
+
+Navigation and Environments:
+	<leader>pf 		      [normal] 		- Searches for files in the system
+	<leader>ps		      [normal]		- Searches for string in files (Grep string)
+	<C-P> 			        [normal]		- File search in the current Git repo
+	<leader>gs    		  [normal]		- checks Git Status
+	<C-e> 			        [normal]		- toggle harpoon quickmenu
+	<leader>a		        [normal] 		- add file to harpoon's quickmenu
+	<C-h> & t & m & s	  [normal]		- jump to files in harpoon's quickmenu
+	<leader>vs		      [normal]		- change conda environment
+
+LSP:
+	<C-n> / <C-p>		    [insert]		- goto Next / Previous suggestion
+	<C-y>			          [insert]		- accept selected suggestion
+	(while using LSP)
+	gd		            	[normal]		- goto Defenition
+	K			              [normal]		- display info/hover
+	<leader>f		        [normal]		- apply auto-pep8 to file (should do this on save aswell)
+	
