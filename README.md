@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duarte Valente
 ======================================================================================================================================
 
-Bioinformatics Graduate
+Bioinformatics Graduate 
 -----------------------
-
-I've been interested in Computer Science since 10th grade (2017) when I first started writing some simple programs to shutdown my friends computers. From them I enrolled on a Bioinformatics Course where I just recently concluded my graduation on. During my journey becoming a bioinformatician I understood that my passion lied within the areas of data science and machine learning and not so much from the biological facet of this multidisciplinary course. I am passionate and eager to keep learning about IT!
 
 * 🌍  I'm based in Lisbon, Portugal
 * 🖥️  See my portfolio at [duartetzvalente02](http://duartevalente2002.wordpress.com)
