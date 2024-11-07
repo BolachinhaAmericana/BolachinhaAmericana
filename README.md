@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duarte Valente
 ======================================================================================================================================
 
-Bioinformatics Graduate 
+Data Scientist Student & Trainee with a background in Bioinformatics 
 -----------------------
 
 * 🌍  I'm based in Lisbon, Portugal
