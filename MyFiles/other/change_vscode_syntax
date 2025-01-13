@@ -1,0 +1,25 @@
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "entity.name.class",
+                "settings":{
+                    "foreground": "#e06c75",
+                    "fontStyle": "italic",
+                },
+            },
+            {
+                "scope": "entity.name.type",
+                "settings": {
+                    "foreground": "#c4202d",
+                }
+            },
+            {
+                "scope": "source.python", // imports 
+                "settings": {
+                    "foreground": "#1aa6d9",
+                    "fontStyle": "bold"
+                }
+            },
+        ]
+    },
+}
